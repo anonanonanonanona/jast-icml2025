@@ -1,6 +1,5 @@
 # Supplementary code for "Just a Simple Transformation is Enough for Data Protection in Vertical Federated Learning"
 
-This code comes jointly with reference:
 
 ## How to install
 
